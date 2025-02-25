@@ -17,9 +17,9 @@ entries:
       catalog.cattle.io/upstream-version: 4.10.0
     apiVersion: v2
     appVersion: 4.10.0
-    created: "2025-01-23T13:57:07.668325519-03:00"
+    created: "2025-02-24T16:36:53.316023-08:00"
     description: Logging operator for Kubernetes based on Fluentd and Fluentbit.
-    digest: 0bc1715a6285c03263f616d233e36033ac56306deb013e3c55c253c8c9518da9
+    digest: 4446965ecc5c88a4307ed1933edd559af96824848a1e9110ef9b0f5daa9ebce1
     home: https://kube-logging.github.io
     icon: file://assets/logos/rancher-logging.svg
     keywords:
@@ -51,9 +51,9 @@ entries:
       catalog.cattle.io/upstream-version: 4.10.0
     apiVersion: v2
     appVersion: 4.10.0
-    created: "2024-12-16T13:09:16.869070541-03:00"
+    created: "2025-02-24T16:36:53.315135-08:00"
     description: Logging operator for Kubernetes based on Fluentd and Fluentbit.
-    digest: 303ffa8c1eb4649b42571b281a84295888fc37e656a83267ed408be8dc62c2f7
+    digest: 2f2083025aa29e2e60710de3ad4567d9b42c9527267f3d6c402de0ccad681643
     home: https://kube-logging.github.io
     icon: file://assets/logos/rancher-logging.svg
     keywords:
@@ -85,9 +85,9 @@ entries:
       catalog.cattle.io/upstream-version: 4.8.0
     apiVersion: v2
     appVersion: 4.8.0
-    created: "2024-11-08T14:29:31.288558839-03:00"
+    created: "2025-02-24T16:36:53.314216-08:00"
     description: Logging operator for Kubernetes based on Fluentd and Fluentbit.
-    digest: 22bf255df9721a9c17d3d37f07552cf6ae91cc4dc0946ee7636d735992891d3c
+    digest: bb53012c2a70691864e47374013e69fa50ad1678e8eabb12e8cdcd7d7e5222e5
     home: https://kube-logging.github.io
     icon: file://assets/logos/rancher-logging.svg
     keywords:
@@ -119,9 +119,9 @@ entries:
       catalog.cattle.io/upstream-version: 4.8.0
     apiVersion: v2
     appVersion: 4.8.0
-    created: "2024-10-27T22:49:13.913874253-03:00"
+    created: "2025-02-24T16:36:53.313246-08:00"
     description: Logging operator for Kubernetes based on Fluentd and Fluentbit.
-    digest: dbe043c52ed19c2812d5210af77926533cdeb4cc542becbc276d84a3c7324f84
+    digest: a49c0751959b34de524583b24886c7533109ccfa95649727d14457977c673e3f
     home: https://kube-logging.github.io
     icon: file://assets/logos/rancher-logging.svg
     keywords:
@@ -153,9 +153,9 @@ entries:
       catalog.cattle.io/upstream-version: 4.8.0
     apiVersion: v2
     appVersion: 4.8.0
-    created: "2024-10-27T22:49:11.029281771-03:00"
+    created: "2025-02-24T16:36:53.311931-08:00"
     description: Logging operator for Kubernetes based on Fluentd and Fluentbit.
-    digest: 6646dbca557e25a3be79224a337dd5ad2b64a0adb825201a9b049a44d66ba511
+    digest: f6855310378cd85e567094ee29b0a0370b606a94cf7d280b19decfd7779bb2db
     home: https://kube-logging.github.io
     icon: file://assets/logos/rancher-logging.svg
     keywords:
@@ -187,9 +187,9 @@ entries:
       catalog.cattle.io/upstream-version: 4.8.0
     apiVersion: v2
     appVersion: 4.8.0
-    created: "2024-10-27T22:49:08.275504413-03:00"
+    created: "2025-02-24T16:36:53.311054-08:00"
     description: Logging operator for Kubernetes based on Fluentd and Fluentbit.
-    digest: 9904ce840095a2656c8e8d29d1e37ac9fd81865973c80342d733814a18ccc919
+    digest: fa0f458d52a8193de7386b7fc2f2e7a8000dcccb210e56819ad27609512bc1f2
     home: https://kube-logging.github.io
     icon: file://assets/logos/rancher-logging.svg
     keywords:
@@ -221,9 +221,9 @@ entries:
       catalog.cattle.io/upstream-version: 4.4.0
     apiVersion: v2
     appVersion: 4.4.0
-    created: "2024-07-17T12:59:19.711946828-03:00"
+    created: "2025-02-24T16:36:53.310145-08:00"
     description: Logging operator for Kubernetes based on Fluentd and Fluentbit.
-    digest: e678c61bb1dc49090b818afda2086d757e6e1d423781e87fab1d102140023a7f
+    digest: 5e3615bbc746aa7dcbdd2f97394480a0875ad3ff0a683be40643de12b2248771
     home: https://kube-logging.github.io
     icon: file://assets/logos/rancher-logging.svg
     keywords:
@@ -255,9 +255,9 @@ entries:
       catalog.cattle.io/upstream-version: 4.4.0
     apiVersion: v2
     appVersion: 4.4.0
-    created: "2024-10-27T22:49:05.483851864-03:00"
+    created: "2025-02-24T16:36:53.309264-08:00"
     description: Logging operator for Kubernetes based on Fluentd and Fluentbit.
-    digest: a7a83bb48d42ff128fdddda7aec255b4c98539385427f820880e194c6f3c1ade
+    digest: a8c9537bb2a6bf58230c4600db14f530056b604cf5bfef5868dbf21bac94cd1d
     home: https://kube-logging.github.io
     icon: file://assets/logos/rancher-logging.svg
     keywords:
@@ -289,9 +289,9 @@ entries:
       catalog.cattle.io/upstream-version: 4.4.0
     apiVersion: v2
     appVersion: 4.4.0
-    created: "2024-06-27T20:06:13.657960578-03:00"
+    created: "2025-02-24T16:36:53.308448-08:00"
     description: Logging operator for Kubernetes based on Fluentd and Fluentbit.
-    digest: c8eae5416d5ae92ae39f853f1f4fdbe13c89bfa067d98ec22f488887a6a7a80a
+    digest: ecdbaf8361a8007ace96ecab483cbf1cdbabc37b65f202c9d268b5c82f5210dc
     home: https://kube-logging.github.io
     icon: file://assets/logos/rancher-logging.svg
     keywords:
@@ -323,9 +323,9 @@ entries:
       catalog.cattle.io/upstream-version: 4.4.0
     apiVersion: v2
     appVersion: 4.4.0
-    created: "2024-06-27T20:06:11.91934449-03:00"
+    created: "2025-02-24T16:36:53.30759-08:00"
     description: Logging operator for Kubernetes based on Fluentd and Fluentbit.
-    digest: 9d2995eb85045ac7b128149a491274bcabafb8292ca0bfb1cf3a479a238cd868
+    digest: 2e637c8b2bca1ca87c503f7cb10773d6c8873892c51b842198e255ea730373f0
     home: https://kube-logging.github.io
     icon: file://assets/logos/rancher-logging.svg
     keywords:
@@ -357,10 +357,10 @@ entries:
       catalog.cattle.io/upstream-version: 3.17.10
     apiVersion: v1
     appVersion: 3.17.10
-    created: "2024-06-27T20:06:10.277226289-03:00"
+    created: "2025-02-24T16:36:53.306691-08:00"
     description: Collects and filter logs using highly configurable CRDs. Powered
       by Banzai Cloud Logging Operator.
-    digest: 2610917a2115fd167ace9eeb6cfe8528e8256e037a48c38036331f2acafc1ab5
+    digest: 93f6e0efdeae6b2a8e2c3a2370e4632c6f2be42612207b3accc9b336bf6357bb
     icon: https://charts.rancher.io/assets/logos/logging.svg
     keywords:
     - logging
@@ -386,10 +386,10 @@ entries:
       catalog.cattle.io/upstream-version: 3.17.10
     apiVersion: v1
     appVersion: 3.17.10
-    created: "2023-09-01T14:06:06.266214607+12:00"
+    created: "2025-02-24T16:36:53.305735-08:00"
     description: Collects and filter logs using highly configurable CRDs. Powered
       by Banzai Cloud Logging Operator.
-    digest: 4579e2d8b4a325ed9e2981f80ccb89e4fe2056379bf8e7e64b4c165b18d481af
+    digest: a9002284369e4d3a861643d897db4523548f25847f76fb4887a5f3b2fbf32050
     icon: https://charts.rancher.io/assets/logos/logging.svg
     keywords:
     - logging
@@ -415,10 +415,10 @@ entries:
       catalog.cattle.io/upstream-version: 3.17.10
     apiVersion: v1
     appVersion: 3.17.10
-    created: "2024-06-27T20:06:08.536200104-03:00"
+    created: "2025-02-24T16:36:53.305065-08:00"
     description: Collects and filter logs using highly configurable CRDs. Powered
       by Banzai Cloud Logging Operator.
-    digest: 509c6dfc02b6d10166f8ca2cb54af0b01d4bf1ccb0bb0305c4c4cf0faddf52d0
+    digest: 4c4cd283ee28ee0223addc078f18b0944bbb17f33ac0ae8a54318bca96126643
     icon: https://charts.rancher.io/assets/logos/logging.svg
     keywords:
     - logging
@@ -444,10 +444,10 @@ entries:
       catalog.cattle.io/upstream-version: 3.17.10
     apiVersion: v1
     appVersion: 3.17.10
-    created: "2024-06-27T20:06:06.849955676-03:00"
+    created: "2025-02-24T16:36:53.304424-08:00"
     description: Collects and filter logs using highly configurable CRDs. Powered
       by Banzai Cloud Logging Operator.
-    digest: d275006dba7c6cd2e31e4b8e2aae982fba586e676f9af47ea8433d621c402a6c
+    digest: 1c4691ba52de0b38781b194e4abafcd9182f4a91633aa43d74e8f50175384c4d
     icon: https://charts.rancher.io/assets/logos/logging.svg
     keywords:
     - logging
@@ -473,10 +473,10 @@ entries:
       catalog.cattle.io/upstream-version: 3.17.10
     apiVersion: v1
     appVersion: 3.17.10
-    created: "2023-05-17T09:39:11.647261113+12:00"
+    created: "2025-02-24T16:36:53.303775-08:00"
     description: Collects and filter logs using highly configurable CRDs. Powered
       by Banzai Cloud Logging Operator.
-    digest: 5ccb49895dfc021f018f16ae6c21884f8da721306a002b536a5256d50a48dbc3
+    digest: d68a3ebf147ecc6bb7a079accd1255f4c84ad367b22919ed7039a9626dbd360a
     icon: https://charts.rancher.io/assets/logos/logging.svg
     keywords:
     - logging
@@ -502,10 +502,10 @@ entries:
       catalog.cattle.io/upstream-version: 3.17.10
     apiVersion: v1
     appVersion: 3.17.10
-    created: "2023-02-09T10:58:00.963697874+13:00"
+    created: "2025-02-24T16:36:53.303144-08:00"
     description: Collects and filter logs using highly configurable CRDs. Powered
       by Banzai Cloud Logging Operator.
-    digest: a806d7ad86ca05b0a589990bb6ed0a4757c3aacf55d265bc65e2d4d71cde97c8
+    digest: 446c43ac3c3172820a2520832c73d871c103828603ab7b68c7c09bb80de15faa
     icon: https://charts.rancher.io/assets/logos/logging.svg
     keywords:
     - logging
@@ -531,10 +531,10 @@ entries:
       catalog.cattle.io/upstream-version: 3.17.7
     apiVersion: v1
     appVersion: 3.17.7
-    created: "2022-09-27T16:07:57.519238-04:00"
+    created: "2025-02-24T16:36:53.302504-08:00"
     description: Collects and filter logs using highly configurable CRDs. Powered
       by Banzai Cloud Logging Operator.
-    digest: 3ed740e33d40a2a553a2f4016b1a06e18c1859cfb8f99f091c7cba0a1d178057
+    digest: 14429677e40d3bf69289e2f870c0547a05d0d6e0956f0fd33bbc63bb60e6d72c
     icon: https://charts.rancher.io/assets/logos/logging.svg
     keywords:
     - logging
@@ -551,9 +551,9 @@ entries:
       catalog.cattle.io/namespace: cattle-logging-system
       catalog.cattle.io/release-name: rancher-logging-crd
     apiVersion: v1
-    created: "2025-01-23T13:57:19.628153556-03:00"
+    created: "2025-02-24T16:36:53.382146-08:00"
     description: Installs the CRDs for rancher-logging.
-    digest: 3c460f3a9b03a9955c82138b3636d4c8b23449c25f5e9484c159d14a7e20bf04
+    digest: 3cae05e6e513c19fe689a28360600778853927582dfddef25bb1c4463bdc7799
     name: rancher-logging-crd
     type: application
     urls:
@@ -565,9 +565,9 @@ entries:
       catalog.cattle.io/namespace: cattle-logging-system
       catalog.cattle.io/release-name: rancher-logging-crd
     apiVersion: v1
-    created: "2024-12-16T13:09:32.613279817-03:00"
+    created: "2025-02-24T16:36:53.370639-08:00"
     description: Installs the CRDs for rancher-logging.
-    digest: 02dc20f9750865d3e7548b583da0cbeec3ad722cd5739ceacff77dcd54d1542e
+    digest: 72b510311102c093aeac6fe99d453cd9f3e96c3661706a73132261df68953d82
     name: rancher-logging-crd
     type: application
     urls:
@@ -579,9 +579,9 @@ entries:
       catalog.cattle.io/namespace: cattle-logging-system
       catalog.cattle.io/release-name: rancher-logging-crd
     apiVersion: v1
-    created: "2024-11-08T14:29:43.780851657-03:00"
+    created: "2025-02-24T16:36:53.358665-08:00"
     description: Installs the CRDs for rancher-logging.
-    digest: 96f4c2ab15a7e84fab5daed8f23e93ce7fbb5cad90db600af328d888bee07eb4
+    digest: eef8d8bd005b2eda106baed56d42c4280a2ec3b56dbd87f7c596eae2bcd65d34
     name: rancher-logging-crd
     type: application
     urls:
@@ -593,9 +593,9 @@ entries:
       catalog.cattle.io/namespace: cattle-logging-system
       catalog.cattle.io/release-name: rancher-logging-crd
     apiVersion: v1
-    created: "2024-10-27T22:49:02.738323259-03:00"
+    created: "2025-02-24T16:36:53.354742-08:00"
     description: Installs the CRDs for rancher-logging.
-    digest: de8609848b04b2e7c69810c2e72c8c212158c0f03baa06dd1c1f0cda9fa718bc
+    digest: 62cf9207475beae7313b2c63ca6f8cd38a63a4fe395b7ce30250b7f119fc5617
     name: rancher-logging-crd
     type: application
     urls:
@@ -607,9 +607,9 @@ entries:
       catalog.cattle.io/namespace: cattle-logging-system
       catalog.cattle.io/release-name: rancher-logging-crd
     apiVersion: v1
-    created: "2024-10-27T22:48:59.916339302-03:00"
+    created: "2025-02-24T16:36:53.350656-08:00"
     description: Installs the CRDs for rancher-logging.
-    digest: ed5d6e79fa6c894a9782e8bc9d26f93d6a41ea6fd1d16d09a149511fdaf05af0
+    digest: 2eb3e0b9479148f4ce720ccb6f4f9f550eb47e4fd5e30b32c0792322f70f6be6
     name: rancher-logging-crd
     type: application
     urls:
@@ -621,9 +621,9 @@ entries:
       catalog.cattle.io/namespace: cattle-logging-system
       catalog.cattle.io/release-name: rancher-logging-crd
     apiVersion: v1
-    created: "2024-10-27T22:48:57.198855357-03:00"
+    created: "2025-02-24T16:36:53.346545-08:00"
     description: Installs the CRDs for rancher-logging.
-    digest: 2f40ec3f5d44274d258ee0ae5b9bdc6b23ac1270af9fe994b235dc5582a8e3c0
+    digest: cb9eed4142245df0391e3aea985a3adea6c794c28df9157bf10f2e3fe4d0719e
     name: rancher-logging-crd
     type: application
     urls:
@@ -635,9 +635,9 @@ entries:
       catalog.cattle.io/namespace: cattle-logging-system
       catalog.cattle.io/release-name: rancher-logging-crd
     apiVersion: v1
-    created: "2024-07-17T12:59:48.522589187-03:00"
+    created: "2025-02-24T16:36:53.341969-08:00"
     description: Installs the CRDs for rancher-logging.
-    digest: 5090335bbadb4cf8ebe6c83193fe4f36f47714694dd539afbd1e3ea8c0a16f55
+    digest: 41cef59a72fb0cf70941a742f937257b1fe509773dfd94b3044920ab006a2a7b
     name: rancher-logging-crd
     type: application
     urls:
@@ -649,9 +649,9 @@ entries:
       catalog.cattle.io/namespace: cattle-logging-system
       catalog.cattle.io/release-name: rancher-logging-crd
     apiVersion: v1
-    created: "2024-10-27T22:48:54.489154687-03:00"
+    created: "2025-02-24T16:36:53.339241-08:00"
     description: Installs the CRDs for rancher-logging.
-    digest: 7090011b9898a3f634f0eab09d3045496399c6b6a110c3d5035a2dd680d83279
+    digest: f4f40128e06157a3796ba5160654a0a30f456659e6b79a08c20d886aad98957d
     name: rancher-logging-crd
     type: application
     urls:
@@ -663,9 +663,9 @@ entries:
       catalog.cattle.io/namespace: cattle-logging-system
       catalog.cattle.io/release-name: rancher-logging-crd
     apiVersion: v1
-    created: "2024-06-27T20:06:23.38660889-03:00"
+    created: "2025-02-24T16:36:53.336374-08:00"
     description: Installs the CRDs for rancher-logging.
-    digest: fed4b0d5257f83abfa9b19df939e80c977836dc51bc271137c367de2185edcf3
+    digest: 6e4205c082855c9fbe472a8ce8fc233cccf16b49e6bd101a1aabd46f6acdc2d7
     name: rancher-logging-crd
     type: application
     urls:
@@ -677,9 +677,9 @@ entries:
       catalog.cattle.io/namespace: cattle-logging-system
       catalog.cattle.io/release-name: rancher-logging-crd
     apiVersion: v1
-    created: "2024-06-27T20:06:21.657331288-03:00"
+    created: "2025-02-24T16:36:53.333274-08:00"
     description: Installs the CRDs for rancher-logging.
-    digest: 73498ff0879c7d00db5332ff62df9c79316d67c92c6207a7f183ae5cc90e15a1
+    digest: 82ba1bc06629d8f509ca78a6a53037f10348f03d1e8ad9513cd10581be4de1d5
     name: rancher-logging-crd
     type: application
     urls:
@@ -691,9 +691,9 @@ entries:
       catalog.cattle.io/namespace: cattle-logging-system
       catalog.cattle.io/release-name: rancher-logging-crd
     apiVersion: v1
-    created: "2024-06-27T20:06:18.902493117-03:00"
+    created: "2025-02-24T16:36:53.330196-08:00"
     description: Installs the CRDs for rancher-logging.
-    digest: 229770eda868a2ab08095dd4cdf9a2c547dc70359c0fb569a08d113428cc151b
+    digest: c8478bcdbb49ac8647b5d02f998f47946167e259cb0f9dcf740aa333e836b053
     name: rancher-logging-crd
     type: application
     urls:
@@ -705,9 +705,9 @@ entries:
       catalog.cattle.io/namespace: cattle-logging-system
       catalog.cattle.io/release-name: rancher-logging-crd
     apiVersion: v1
-    created: "2023-09-01T14:06:06.301913469+12:00"
+    created: "2025-02-24T16:36:53.328203-08:00"
     description: Installs the CRDs for rancher-logging.
-    digest: 703903d8a06c01f35da538a281c95cb354af7f606886e48f33235f7740881587
+    digest: b02f29b360d0d23e03448503b5b4e86152be46351e28e6dc845e7496f1ef84c3
     name: rancher-logging-crd
     type: application
     urls:
@@ -719,9 +719,9 @@ entries:
       catalog.cattle.io/namespace: cattle-logging-system
       catalog.cattle.io/release-name: rancher-logging-crd
     apiVersion: v1
-    created: "2024-06-27T20:06:17.152645257-03:00"
+    created: "2025-02-24T16:36:53.326286-08:00"
     description: Installs the CRDs for rancher-logging.
-    digest: 3664d8fb304190f6c3cc28cc39b3e2adc2b942a8c9e36ff71e4c665773847452
+    digest: d461aa1f7d4e8229ae510fda4d5d5142591c5793e27232c36f2a2bcb25370007
     name: rancher-logging-crd
     type: application
     urls:
@@ -733,9 +733,9 @@ entries:
       catalog.cattle.io/namespace: cattle-logging-system
       catalog.cattle.io/release-name: rancher-logging-crd
     apiVersion: v1
-    created: "2024-06-27T20:06:15.412032988-03:00"
+    created: "2025-02-24T16:36:53.324175-08:00"
     description: Installs the CRDs for rancher-logging.
-    digest: 2238454ba8932a91fcab032f3151003bdccf0d7fd9013b1a410108b81384d721
+    digest: 173bc4c71b33f0c8bc6ccd0944aefe8fb5f963709b080cb1a0d2b20ab56e66e2
     name: rancher-logging-crd
     type: application
     urls:
@@ -747,9 +747,9 @@ entries:
       catalog.cattle.io/namespace: cattle-logging-system
       catalog.cattle.io/release-name: rancher-logging-crd
     apiVersion: v1
-    created: "2023-05-17T09:39:11.685647367+12:00"
+    created: "2025-02-24T16:36:53.322504-08:00"
     description: Installs the CRDs for rancher-logging.
-    digest: eb5491ff8c24ee4cc8c0751b8b63c224d3d9c04129a102d3bac64aa7cf45cbd9
+    digest: ec8bb2128d5945f82a165c75023726eb1c7cf8c16be1083134578dd678ddcef0
     name: rancher-logging-crd
     type: application
     urls:
@@ -761,9 +761,9 @@ entries:
       catalog.cattle.io/namespace: cattle-logging-system
       catalog.cattle.io/release-name: rancher-logging-crd
     apiVersion: v1
-    created: "2023-01-26T18:53:05.800802-05:00"
+    created: "2025-02-24T16:36:53.320382-08:00"
     description: Installs the CRDs for rancher-logging.
-    digest: f9ec5b88d447f96cf50107f676493296ac2d466030616fb70021971260181d42
+    digest: 008ac409d2a767507014e907b2fec7d700a2c4dcbae1d103d12a039a9341129d
     name: rancher-logging-crd
     type: application
     urls:
@@ -775,9 +775,9 @@ entries:
       catalog.cattle.io/namespace: cattle-logging-system
       catalog.cattle.io/release-name: rancher-logging-crd
     apiVersion: v1
-    created: "2022-09-21T11:32:09.198036-04:00"
+    created: "2025-02-24T16:36:53.318163-08:00"
     description: Installs the CRDs for rancher-logging.
-    digest: b53f5a2bfa75cac85f668fd69c44461ac85b80f3be1b57b0fdbb70a861ed271b
+    digest: 7e8ccacbd6c68cfc5f6209d9f6cd208d32a2f50a5e93c91c65af190ed1c1761f
     name: rancher-logging-crd
     type: application
     urls:
@@ -809,7 +809,7 @@ entries:
       catalog.cattle.io/upstream-version: 57.0.3
     apiVersion: v2
     appVersion: v0.75.1
-    created: "2025-01-23T13:41:43.406727679-03:00"
+    created: "2025-02-24T16:36:53.766526-08:00"
     dependencies:
     - condition: grafana.enabled
       name: grafana
@@ -881,7 +881,7 @@ entries:
       and Prometheus rules combined with documentation and scripts to provide easy
       to operate end-to-end Kubernetes cluster monitoring with Prometheus using the
       Prometheus Operator.
-    digest: 7176935abcb81a0a2438497c8acaf2285069f3e5a0c5e57186bb0eb89fa9eea2
+    digest: 3379fb3561bd926556f786be2614f63f80d99e2ad4882089570f041756d11a17
     home: https://github.com/prometheus-operator/kube-prometheus
     icon: file://assets/logos/rancher-monitoring.png
     keywords:
@@ -939,7 +939,7 @@ entries:
       catalog.cattle.io/upstream-version: 57.0.3
     apiVersion: v2
     appVersion: v0.75.1
-    created: "2024-12-16T13:10:04.340857158-03:00"
+    created: "2025-02-24T16:36:53.747417-08:00"
     dependencies:
     - condition: grafana.enabled
       name: grafana
@@ -1011,7 +1011,7 @@ entries:
       and Prometheus rules combined with documentation and scripts to provide easy
       to operate end-to-end Kubernetes cluster monitoring with Prometheus using the
       Prometheus Operator.
-    digest: 4a8ca60b1176fe0e0f282be46ba5368ca36f8b5fc2375c9ed6344256926ab643
+    digest: db706dd407c29defc745fe48c608f8dbc9e332cb07acf23846c859fd8ef1157d
     home: https://github.com/prometheus-operator/kube-prometheus
     icon: file://assets/logos/rancher-monitoring.png
     keywords:
@@ -1069,7 +1069,7 @@ entries:
       catalog.cattle.io/upstream-version: 57.0.3
     apiVersion: v2
     appVersion: v0.75.1
-    created: "2024-11-08T14:28:40.059775882-03:00"
+    created: "2025-02-24T16:36:53.72856-08:00"
     dependencies:
     - condition: grafana.enabled
       name: grafana
@@ -1141,7 +1141,7 @@ entries:
       and Prometheus rules combined with documentation and scripts to provide easy
       to operate end-to-end Kubernetes cluster monitoring with Prometheus using the
       Prometheus Operator.
-    digest: 137533943d9fcefc6edd0cc8e52a245ef1b6bacddb907e0f26697970f0c1ed03
+    digest: 3779f60aeda4b22a409e336e5694a58ea8ea79cde1f91a9b9d0a255df43c0913
     home: https://github.com/prometheus-operator/kube-prometheus
     icon: file://assets/logos/rancher-monitoring.png
     keywords:
@@ -1199,7 +1199,7 @@ entries:
       catalog.cattle.io/upstream-version: 57.0.3
     apiVersion: v2
     appVersion: v0.72.0
-    created: "2024-11-08T14:27:53.26452354-03:00"
+    created: "2025-02-24T16:36:53.709245-08:00"
     dependencies:
     - condition: grafana.enabled
       name: grafana
@@ -1271,7 +1271,7 @@ entries:
       and Prometheus rules combined with documentation and scripts to provide easy
       to operate end-to-end Kubernetes cluster monitoring with Prometheus using the
       Prometheus Operator.
-    digest: 059fcd7bea67b88c035618c563513f18287ddc493e11058c118b10c988ab0a84
+    digest: 439f891803cc4753534c90f5b04ec147e03ce660cad7a7984078911ba239f3e6
     home: https://github.com/prometheus-operator/kube-prometheus
     icon: file://assets/logos/rancher-monitoring.png
     keywords:
@@ -1329,7 +1329,7 @@ entries:
       catalog.cattle.io/upstream-version: 57.0.3
     apiVersion: v2
     appVersion: v0.72.0
-    created: "2024-12-18T22:42:36.327286104-03:00"
+    created: "2025-02-24T16:36:53.689527-08:00"
     dependencies:
     - condition: grafana.enabled
       name: grafana
@@ -1401,7 +1401,7 @@ entries:
       and Prometheus rules combined with documentation and scripts to provide easy
       to operate end-to-end Kubernetes cluster monitoring with Prometheus using the
       Prometheus Operator.
-    digest: 66e1b58f8d64b68b2d088bb33033a453a5e1027f924b7880f482df5567c8ba05
+    digest: d21c60ee89391255271f3841537a5b10ba22758f8c6a78d4e076ec3a2845d5d3
     home: https://github.com/prometheus-operator/kube-prometheus
     icon: file://assets/logos/rancher-monitoring.png
     keywords:
@@ -1459,7 +1459,7 @@ entries:
       catalog.cattle.io/upstream-version: 57.0.3
     apiVersion: v2
     appVersion: v0.72.0
-    created: "2024-10-27T22:49:25.882128951-03:00"
+    created: "2025-02-24T16:36:53.670705-08:00"
     dependencies:
     - condition: grafana.enabled
       name: grafana
@@ -1531,7 +1531,7 @@ entries:
       and Prometheus rules combined with documentation and scripts to provide easy
       to operate end-to-end Kubernetes cluster monitoring with Prometheus using the
       Prometheus Operator.
-    digest: 0d2cb1ed63b0ad0b986493540a8dfd9f84bfd2db89ebb9af8c4c3234cdd91e8f
+    digest: adbd0c91d23acda8a9824687023e31316b01b002a08e73dab0260bfc052f67b2
     home: https://github.com/prometheus-operator/kube-prometheus
     icon: file://assets/logos/rancher-monitoring.png
     keywords:
@@ -1589,7 +1589,7 @@ entries:
       catalog.cattle.io/upstream-version: 57.0.3
     apiVersion: v2
     appVersion: v0.72.0
-    created: "2024-10-27T22:49:22.853723871-03:00"
+    created: "2025-02-24T16:36:53.652114-08:00"
     dependencies:
     - condition: grafana.enabled
       name: grafana
@@ -1661,7 +1661,7 @@ entries:
       and Prometheus rules combined with documentation and scripts to provide easy
       to operate end-to-end Kubernetes cluster monitoring with Prometheus using the
       Prometheus Operator.
-    digest: 7904f3c1986abe19683929cff9ef2e327f6ed06100ea5c02e44e556505b43b0a
+    digest: 94fe89d885606945ed31613a619ebe02d3fb1d8ff0d10b31c7dedba48744f12e
     home: https://github.com/prometheus-operator/kube-prometheus
     icon: file://assets/logos/rancher-monitoring.png
     keywords:
@@ -1719,7 +1719,7 @@ entries:
       catalog.cattle.io/upstream-version: 57.0.3
     apiVersion: v2
     appVersion: v0.72.0
-    created: "2024-07-17T13:03:10.897140691-03:00"
+    created: "2025-02-24T16:36:53.633469-08:00"
     dependencies:
     - condition: grafana.enabled
       name: grafana
@@ -1791,7 +1791,7 @@ entries:
       and Prometheus rules combined with documentation and scripts to provide easy
       to operate end-to-end Kubernetes cluster monitoring with Prometheus using the
       Prometheus Operator.
-    digest: 85fca075ad4e52d521ae7c083513cd13a22791d56cdf046d1de26c51e2c2c28a
+    digest: 762e8316c94ee964b3968129acbb932f9ece9f2b497476a9346f63edbf3a50dd
     home: https://github.com/prometheus-operator/kube-prometheus
     icon: file://assets/logos/rancher-monitoring.png
     keywords:
@@ -1849,7 +1849,7 @@ entries:
       catalog.cattle.io/upstream-version: 45.31.1
     apiVersion: v2
     appVersion: v0.65.1
-    created: "2024-07-17T13:01:13.126292281-03:00"
+    created: "2025-02-24T16:36:53.61482-08:00"
     dependencies:
     - condition: grafana.enabled
       name: grafana
@@ -1943,7 +1943,7 @@ entries:
       and Prometheus rules combined with documentation and scripts to provide easy
       to operate end-to-end Kubernetes cluster monitoring with Prometheus using the
       Prometheus Operator.
-    digest: 74725ed05522c3645f3bd8a8c2200e49c2562b14d7414f25cc57317fc71c329c
+    digest: f0bfafdff519dd9d2c4b5f93fe359cee7974a16f793ae98ee0afbfe5ee2aa1a3
     home: https://github.com/prometheus-operator/kube-prometheus
     icon: file://assets/logos/rancher-monitoring.png
     keywords:
@@ -1999,7 +1999,7 @@ entries:
       catalog.cattle.io/upstream-version: 57.0.3
     apiVersion: v2
     appVersion: v0.72.0
-    created: "2024-12-18T21:55:29.249179831-03:00"
+    created: "2025-02-24T16:36:53.597108-08:00"
     dependencies:
     - condition: grafana.enabled
       name: grafana
@@ -2071,7 +2071,7 @@ entries:
       and Prometheus rules combined with documentation and scripts to provide easy
       to operate end-to-end Kubernetes cluster monitoring with Prometheus using the
       Prometheus Operator.
-    digest: 89455afceee21da7bba97baa3fc27d97be2da9f3b1b664d1e5ea634686beead9
+    digest: 8151554ca28d3eb1964cba2ab501b9e20cbb1702620991657b9c0c0ec112203b
     home: https://github.com/prometheus-operator/kube-prometheus
     icon: file://assets/logos/rancher-monitoring.png
     keywords:
@@ -2129,7 +2129,7 @@ entries:
       catalog.cattle.io/upstream-version: 45.31.1
     apiVersion: v2
     appVersion: v0.65.1
-    created: "2024-06-27T20:03:21.76488295-03:00"
+    created: "2025-02-24T16:36:53.577468-08:00"
     dependencies:
     - condition: grafana.enabled
       name: grafana
@@ -2201,7 +2201,7 @@ entries:
       and Prometheus rules combined with documentation and scripts to provide easy
       to operate end-to-end Kubernetes cluster monitoring with Prometheus using the
       Prometheus Operator.
-    digest: d264d298c7174ec9162ef0cb4e798481aba273b40e9d140008d5b2ba8d09258f
+    digest: 4ca0a87d317a7d860d6edd456ba331f120261523227d515b58475fcf30d1e0e7
     home: https://github.com/prometheus-operator/kube-prometheus
     icon: https://raw.githubusercontent.com/prometheus/prometheus.github.io/master/assets/prometheus_logo-cb55bb5c346.png
     keywords:
@@ -2257,7 +2257,7 @@ entries:
       catalog.cattle.io/upstream-version: 45.31.1
     apiVersion: v2
     appVersion: v0.65.1
-    created: "2024-06-27T20:03:19.641338843-03:00"
+    created: "2025-02-24T16:36:53.560579-08:00"
     dependencies:
     - condition: grafana.enabled
       name: grafana
@@ -2329,7 +2329,7 @@ entries:
       and Prometheus rules combined with documentation and scripts to provide easy
       to operate end-to-end Kubernetes cluster monitoring with Prometheus using the
       Prometheus Operator.
-    digest: 7b24a0ebb2df91f537cebd69d064b8c6b1c13ce537e2599f40b397a708e366d4
+    digest: 241a966656a303707ab2ff50ccdffd766c5b665ae7504668b5f344ff9f628319
     home: https://github.com/prometheus-operator/kube-prometheus
     icon: https://raw.githubusercontent.com/prometheus/prometheus.github.io/master/assets/prometheus_logo-cb55bb5c346.png
     keywords:
@@ -2385,7 +2385,7 @@ entries:
       catalog.cattle.io/upstream-version: 45.31.1
     apiVersion: v2
     appVersion: v0.65.1
-    created: "2024-06-27T20:03:15.480956365-03:00"
+    created: "2025-02-24T16:36:53.543092-08:00"
     dependencies:
     - condition: grafana.enabled
       name: grafana
@@ -2457,7 +2457,7 @@ entries:
       and Prometheus rules combined with documentation and scripts to provide easy
       to operate end-to-end Kubernetes cluster monitoring with Prometheus using the
       Prometheus Operator.
-    digest: 775f3336391eee945dd316e12f9a93e0c513acc1a25ebc712b363b1525734c69
+    digest: 082d6c3964702f215aa83aebb1921f9b14512feea080b5efd369017c12fdbb3b
     home: https://github.com/prometheus-operator/kube-prometheus
     icon: https://raw.githubusercontent.com/prometheus/prometheus.github.io/master/assets/prometheus_logo-cb55bb5c346.png
     keywords:
@@ -2513,7 +2513,7 @@ entries:
       catalog.cattle.io/upstream-version: 45.31.1
     apiVersion: v2
     appVersion: v0.65.1
-    created: "2024-06-27T20:03:13.623480598-03:00"
+    created: "2025-02-24T16:36:53.526436-08:00"
     dependencies:
     - condition: grafana.enabled
       name: grafana
@@ -2585,7 +2585,7 @@ entries:
       and Prometheus rules combined with documentation and scripts to provide easy
       to operate end-to-end Kubernetes cluster monitoring with Prometheus using the
       Prometheus Operator.
-    digest: 4ce289a2bc56327093b8c59a76994988d368f09120f6e347c8fcdac69e894e39
+    digest: 27c34fb20cb565012c8fb55a2a2c9023848ff003c0d65e085e061dbf0e2e5daf
     home: https://github.com/prometheus-operator/kube-prometheus
     icon: https://raw.githubusercontent.com/prometheus/prometheus.github.io/master/assets/prometheus_logo-cb55bb5c346.png
     keywords:
@@ -2641,7 +2641,7 @@ entries:
       catalog.cattle.io/upstream-version: 45.31.1
     apiVersion: v2
     appVersion: v0.65.1
-    created: "2023-10-13T21:52:00.161611055-04:00"
+    created: "2025-02-24T16:36:53.509372-08:00"
     dependencies:
     - condition: grafana.enabled
       name: grafana
@@ -2713,7 +2713,7 @@ entries:
       and Prometheus rules combined with documentation and scripts to provide easy
       to operate end-to-end Kubernetes cluster monitoring with Prometheus using the
       Prometheus Operator.
-    digest: e3e358e42adc641655f86765072160c6c27e6c0dca0adf31e9f90708d05e3ede
+    digest: 40986c19f5fa7e548e06a01a90e9060c3cdac6fb09886fa4403ad0de82739802
     home: https://github.com/prometheus-operator/kube-prometheus
     icon: https://raw.githubusercontent.com/prometheus/prometheus.github.io/master/assets/prometheus_logo-cb55bb5c346.png
     keywords:
@@ -2768,7 +2768,7 @@ entries:
       catalog.cattle.io/upstream-version: 19.0.3
     apiVersion: v2
     appVersion: 0.59.1
-    created: "2024-06-27T20:03:11.727878825-03:00"
+    created: "2025-02-24T16:36:53.492225-08:00"
     dependencies:
     - condition: grafana.enabled
       name: grafana
@@ -2839,7 +2839,7 @@ entries:
     description: Collects several related Helm charts, Grafana dashboards, and Prometheus
       rules combined with documentation and scripts to provide easy to operate end-to-end
       Kubernetes cluster monitoring with Prometheus using the Prometheus Operator.
-    digest: 256983818a107ad107bd8332972b6284a312df3e63a2fdc26e7354a459cfb9bb
+    digest: bafdf2ef48b5b9c91c64e357ad0bffc7c3ac2045c5dea5ad1d8235737b4d2fc1
     home: https://github.com/prometheus-operator/kube-prometheus
     icon: https://raw.githubusercontent.com/prometheus/prometheus.github.io/master/assets/prometheus_logo-cb55bb5c346.png
     keywords:
@@ -2900,7 +2900,7 @@ entries:
       catalog.cattle.io/upstream-version: 19.0.3
     apiVersion: v2
     appVersion: 0.59.1
-    created: "2024-06-27T20:03:09.867261062-03:00"
+    created: "2025-02-24T16:36:53.476568-08:00"
     dependencies:
     - condition: grafana.enabled
       name: grafana
@@ -2971,7 +2971,7 @@ entries:
     description: Collects several related Helm charts, Grafana dashboards, and Prometheus
       rules combined with documentation and scripts to provide easy to operate end-to-end
       Kubernetes cluster monitoring with Prometheus using the Prometheus Operator.
-    digest: ca6ef58629324a530cfa93b83885646cf6f54099c15dd0c8284bf4198348c940
+    digest: b1b164962ebd7a5a60796610d0653438c30a2a0640b4ee2d2c4a5b7873af3583
     home: https://github.com/prometheus-operator/kube-prometheus
     icon: https://raw.githubusercontent.com/prometheus/prometheus.github.io/master/assets/prometheus_logo-cb55bb5c346.png
     keywords:
@@ -3032,7 +3032,7 @@ entries:
       catalog.cattle.io/upstream-version: 19.0.3
     apiVersion: v2
     appVersion: 0.59.1
-    created: "2024-06-27T20:03:08.239656578-03:00"
+    created: "2025-02-24T16:36:53.460277-08:00"
     dependencies:
     - condition: grafana.enabled
       name: grafana
@@ -3103,7 +3103,7 @@ entries:
     description: Collects several related Helm charts, Grafana dashboards, and Prometheus
       rules combined with documentation and scripts to provide easy to operate end-to-end
       Kubernetes cluster monitoring with Prometheus using the Prometheus Operator.
-    digest: 11926ac75f52019944b26f91f5b83e8693824696613b5a931a6f5580a6be35f7
+    digest: 34841a4ba1f9815ddb77628b91813d5da28b7d482dfe057c48bfe33c4159c803
     home: https://github.com/prometheus-operator/kube-prometheus
     icon: https://raw.githubusercontent.com/prometheus/prometheus.github.io/master/assets/prometheus_logo-cb55bb5c346.png
     keywords:
@@ -3164,7 +3164,7 @@ entries:
       catalog.cattle.io/upstream-version: 19.0.3
     apiVersion: v2
     appVersion: 0.59.1
-    created: "2023-10-11T17:11:27.302101574-04:00"
+    created: "2025-02-24T16:36:53.443779-08:00"
     dependencies:
     - condition: grafana.enabled
       name: grafana
@@ -3235,7 +3235,7 @@ entries:
     description: Collects several related Helm charts, Grafana dashboards, and Prometheus
       rules combined with documentation and scripts to provide easy to operate end-to-end
       Kubernetes cluster monitoring with Prometheus using the Prometheus Operator.
-    digest: 5ea30bcd8f77b030ea0d37dfdf5a7798577c7613e615c964eb0671fba690b516
+    digest: e66fbdeb830d805aeab91083d7c8761b736063b4842e172d663c24702625de63
     home: https://github.com/prometheus-operator/kube-prometheus
     icon: https://raw.githubusercontent.com/prometheus/prometheus.github.io/master/assets/prometheus_logo-cb55bb5c346.png
     keywords:
@@ -3296,7 +3296,7 @@ entries:
       catalog.cattle.io/upstream-version: 19.0.3
     apiVersion: v2
     appVersion: 0.59.1
-    created: "2023-10-11T17:11:27.273952624-04:00"
+    created: "2025-02-24T16:36:53.427985-08:00"
     dependencies:
     - condition: grafana.enabled
       name: grafana
@@ -3367,7 +3367,7 @@ entries:
     description: Collects several related Helm charts, Grafana dashboards, and Prometheus
       rules combined with documentation and scripts to provide easy to operate end-to-end
       Kubernetes cluster monitoring with Prometheus using the Prometheus Operator.
-    digest: affcd74e7d8064c7868d3089805b03448e74b99fd71016c6967bd838bc96695f
+    digest: 65ee2d1e5dd35887cb8a032ee8bf188ddd852e730ab1e9179121016b580805f9
     home: https://github.com/prometheus-operator/kube-prometheus
     icon: https://raw.githubusercontent.com/prometheus/prometheus.github.io/master/assets/prometheus_logo-cb55bb5c346.png
     keywords:
@@ -3428,7 +3428,7 @@ entries:
       catalog.cattle.io/upstream-version: 19.0.3
     apiVersion: v2
     appVersion: 0.59.1
-    created: "2023-03-22T09:41:36.274793+08:00"
+    created: "2025-02-24T16:36:53.412363-08:00"
     dependencies:
     - condition: grafana.enabled
       name: grafana
@@ -3499,7 +3499,7 @@ entries:
     description: Collects several related Helm charts, Grafana dashboards, and Prometheus
       rules combined with documentation and scripts to provide easy to operate end-to-end
       Kubernetes cluster monitoring with Prometheus using the Prometheus Operator.
-    digest: 493053b70ede15ec566e563c8973b4e032cc5386df12c77a83b0e8d777d29ae1
+    digest: 9b1f10b577cc2c3561bc1f89f12878934575c37903e88c788499a6308bfae8df
     home: https://github.com/prometheus-operator/kube-prometheus
     icon: https://raw.githubusercontent.com/prometheus/prometheus.github.io/master/assets/prometheus_logo-cb55bb5c346.png
     keywords:
@@ -3560,7 +3560,7 @@ entries:
       catalog.cattle.io/upstream-version: 19.0.3
     apiVersion: v2
     appVersion: 0.50.0
-    created: "2022-09-22T14:33:54.306221-07:00"
+    created: "2025-02-24T16:36:53.396475-08:00"
     dependencies:
     - condition: grafana.enabled
       name: grafana
@@ -3631,7 +3631,7 @@ entries:
     description: Collects several related Helm charts, Grafana dashboards, and Prometheus
       rules combined with documentation and scripts to provide easy to operate end-to-end
       Kubernetes cluster monitoring with Prometheus using the Prometheus Operator.
-    digest: 85f6118717ec0473d0fd9101441a9613fbf5e950af32388c4d2a7b6a195de48a
+    digest: 72bac8f6a99ac79d4966a8258926c1243b3530a1eea7aa2d2c2967b9e6746347
     home: https://github.com/prometheus-operator/kube-prometheus
     icon: https://raw.githubusercontent.com/prometheus/prometheus.github.io/master/assets/prometheus_logo-cb55bb5c346.png
     keywords:
@@ -3671,9 +3671,9 @@ entries:
       catalog.cattle.io/namespace: cattle-monitoring-system
       catalog.cattle.io/release-name: rancher-monitoring-crd
     apiVersion: v2
-    created: "2025-01-23T13:41:55.865208791-03:00"
+    created: "2025-02-24T16:36:53.836021-08:00"
     description: Installs the CRDs for rancher-monitoring.
-    digest: a1be1542db3dc1f79a2af481ba1c442a5030c295685915c9fca3c347182dd9c1
+    digest: dc6a4bcb17a9fbe94fd3f06e4ba1759de1e8f08fea9aa56473d5828568d4f325
     name: rancher-monitoring-crd
     type: application
     urls:
@@ -3685,9 +3685,9 @@ entries:
       catalog.cattle.io/namespace: cattle-monitoring-system
       catalog.cattle.io/release-name: rancher-monitoring-crd
     apiVersion: v2
-    created: "2024-12-16T13:10:18.492536256-03:00"
+    created: "2025-02-24T16:36:53.833973-08:00"
     description: Installs the CRDs for rancher-monitoring.
-    digest: 4939645d4c290be1557712d2fc574755353341c01d18e4d41faaea718a8a5162
+    digest: 8c1757588aece2fb24b76150eef36ac9c76d463b6aacdb86b593f53f6c386282
     name: rancher-monitoring-crd
     type: application
     urls:
@@ -3699,9 +3699,9 @@ entries:
       catalog.cattle.io/namespace: cattle-monitoring-system
       catalog.cattle.io/release-name: rancher-monitoring-crd
     apiVersion: v2
-    created: "2024-11-08T14:29:01.036214247-03:00"
+    created: "2025-02-24T16:36:53.831819-08:00"
     description: Installs the CRDs for rancher-monitoring.
-    digest: 0f8dd2110d95e51457e6ad1af544b5c72a015b8b65ed61807d90531d01050e8c
+    digest: 81721e15e8450842c549b642334ba6af32091218b98063c21c630e411cb81a68
     name: rancher-monitoring-crd
     type: application
     urls:
@@ -3713,9 +3713,9 @@ entries:
       catalog.cattle.io/namespace: cattle-monitoring-system
       catalog.cattle.io/release-name: rancher-monitoring-crd
     apiVersion: v2
-    created: "2024-11-08T14:28:05.65801681-03:00"
+    created: "2025-02-24T16:36:53.829882-08:00"
     description: Installs the CRDs for rancher-monitoring.
-    digest: 0a683e97aa52bf1574ae207a11995aa0ea54a9789345ca2b7a9ea445ee850c41
+    digest: 0c89faefb8e2778f52200f1fc270cc06c59e982531f6a0d13f5916d8cae9d1a8
     name: rancher-monitoring-crd
     type: application
     urls:
@@ -3727,9 +3727,9 @@ entries:
       catalog.cattle.io/namespace: cattle-monitoring-system
       catalog.cattle.io/release-name: rancher-monitoring-crd
     apiVersion: v2
-    created: "2024-12-18T22:42:40.457980528-03:00"
+    created: "2025-02-24T16:36:53.828174-08:00"
     description: Installs the CRDs for rancher-monitoring.
-    digest: 129773b9ba39ec8320ade8551e51a1547b351dd550d5f4e9b6014e17b5d743b3
+    digest: e34bdecfa82aed928dab64607b2f311041f8ee0b391b4f633664686509c03113
     name: rancher-monitoring-crd
     type: application
     urls:
@@ -3741,9 +3741,9 @@ entries:
       catalog.cattle.io/namespace: cattle-monitoring-system
       catalog.cattle.io/release-name: rancher-monitoring-crd
     apiVersion: v2
-    created: "2024-10-27T22:49:19.988986366-03:00"
+    created: "2025-02-24T16:36:53.826223-08:00"
     description: Installs the CRDs for rancher-monitoring.
-    digest: 6dedac8a3c1bef72c28383713db40d317227939d6c01a1b19e34e89461947a0c
+    digest: b9981845c10ce2fb727aad4f0b53c56293308aeb61c1bf5bde47cfd96896991e
     name: rancher-monitoring-crd
     type: application
     urls:
@@ -3755,9 +3755,9 @@ entries:
       catalog.cattle.io/namespace: cattle-monitoring-system
       catalog.cattle.io/release-name: rancher-monitoring-crd
     apiVersion: v2
-    created: "2024-10-27T22:49:17.20994498-03:00"
+    created: "2025-02-24T16:36:53.824164-08:00"
     description: Installs the CRDs for rancher-monitoring.
-    digest: a443493caccd1181d08986246a67200443d34572296700dcbdbf03cecfeee0c0
+    digest: 2ef20a10f18052e40f97f293673f58c9e46ba2ec97341ba231b684079fe08125
     name: rancher-monitoring-crd
     type: application
     urls:
@@ -3769,9 +3769,9 @@ entries:
       catalog.cattle.io/namespace: cattle-monitoring-system
       catalog.cattle.io/release-name: rancher-monitoring-crd
     apiVersion: v2
-    created: "2024-07-17T13:03:36.402382489-03:00"
+    created: "2025-02-24T16:36:53.822177-08:00"
     description: Installs the CRDs for rancher-monitoring.
-    digest: a0c4b3c97fe4e7d543f4f5c7830430b238f33b56860c970af1d378b2e48d0dd9
+    digest: 3b5227234546deb9df4026a2bd5bdd1547732b11b47abd803eefd0ab596b7274
     name: rancher-monitoring-crd
     type: application
     urls:
@@ -3783,9 +3783,9 @@ entries:
       catalog.cattle.io/namespace: cattle-monitoring-system
       catalog.cattle.io/release-name: rancher-monitoring-crd
     apiVersion: v2
-    created: "2024-07-17T13:01:36.42317089-03:00"
+    created: "2025-02-24T16:36:53.820247-08:00"
     description: Installs the CRDs for rancher-monitoring.
-    digest: 1d5ebf246008b0f57b26bb4fd896b35dbcd1a22d605ee4cfc5d249970f3b5f70
+    digest: 3e67b80a9d9d0567cc8a5296f83ec9e8a04132f1939a038e8d28e5924c52088e
     name: rancher-monitoring-crd
     type: application
     urls:
@@ -3797,9 +3797,9 @@ entries:
       catalog.cattle.io/namespace: cattle-monitoring-system
       catalog.cattle.io/release-name: rancher-monitoring-crd
     apiVersion: v2
-    created: "2024-12-18T21:55:35.200595939-03:00"
+    created: "2025-02-24T16:36:53.818984-08:00"
     description: Installs the CRDs for rancher-monitoring.
-    digest: 78bdde4ff70e4b856dffcc720ef0e7608a4f95f2cbb083a57355ca2fc9c71b20
+    digest: aa4d3042c9a533e7964ccaa868dae2c911db3afea507057ea3062a4d30c3d0d8
     name: rancher-monitoring-crd
     type: application
     urls:
@@ -3811,9 +3811,9 @@ entries:
       catalog.cattle.io/namespace: cattle-monitoring-system
       catalog.cattle.io/release-name: rancher-monitoring-crd
     apiVersion: v1
-    created: "2024-06-27T20:03:36.046134733-03:00"
+    created: "2025-02-24T16:36:53.817037-08:00"
     description: Installs the CRDs for rancher-monitoring.
-    digest: 94c2856670e4ec91d5508528a3f8567e6de062b6665ef4a800347e0a69307dd7
+    digest: b38311aebe4243ed698dae26b0b4ffcea26a13c845e95b553f127ad73ef552d0
     name: rancher-monitoring-crd
     type: application
     urls:
@@ -3825,9 +3825,9 @@ entries:
       catalog.cattle.io/namespace: cattle-monitoring-system
       catalog.cattle.io/release-name: rancher-monitoring-crd
     apiVersion: v1
-    created: "2024-06-27T20:03:34.006903963-03:00"
+    created: "2025-02-24T16:36:53.815742-08:00"
     description: Installs the CRDs for rancher-monitoring.
-    digest: db5898a38f35b5565179205bd48efeb1067851067bce6e2259119e8c248ba5ef
+    digest: cc9600090baa0112dfa2885f17a39b8e2c891d379f93375e980590c2c4b495be
     name: rancher-monitoring-crd
     type: application
     urls:
@@ -3839,9 +3839,9 @@ entries:
       catalog.cattle.io/namespace: cattle-monitoring-system
       catalog.cattle.io/release-name: rancher-monitoring-crd
     apiVersion: v1
-    created: "2024-06-27T20:03:31.950314143-03:00"
+    created: "2025-02-24T16:36:53.810965-08:00"
     description: Installs the CRDs for rancher-monitoring.
-    digest: ef374a8c0ddf118dc1f1fcb2386eec2502daeadd46c18c85af3decf25bb0189d
+    digest: 07306e17826737f5d5987ffc1137826256135780a55b71e03c89ac3edc3fc1ab
     name: rancher-monitoring-crd
     type: application
     urls:
@@ -3853,9 +3853,9 @@ entries:
       catalog.cattle.io/namespace: cattle-monitoring-system
       catalog.cattle.io/release-name: rancher-monitoring-crd
     apiVersion: v1
-    created: "2024-06-27T20:03:30.00421345-03:00"
+    created: "2025-02-24T16:36:53.806043-08:00"
     description: Installs the CRDs for rancher-monitoring.
-    digest: 2f4f49ae87dc7519c2cd9d8e4e7884740ae6e90b40dc6c64c4e4d88746b9a4b5
+    digest: b71afb1fb27c527236acac7133f197f5a02ec5c837b87f2abecd4d65699be715
     name: rancher-monitoring-crd
     type: application
     urls:
@@ -3867,9 +3867,9 @@ entries:
       catalog.cattle.io/namespace: cattle-monitoring-system
       catalog.cattle.io/release-name: rancher-monitoring-crd
     apiVersion: v1
-    created: "2023-10-11T17:16:37.885198368-04:00"
+    created: "2025-02-24T16:36:53.801121-08:00"
     description: Installs the CRDs for rancher-monitoring.
-    digest: d7769b92bffe3d90ea6db6fd130be8397a55384bcde488682d8a521683e7852d
+    digest: df6e654748981b501958e83748e303c3ae635f1856f3d18d7ac94190eb14be27
     name: rancher-monitoring-crd
     type: application
     urls:
@@ -3881,9 +3881,9 @@ entries:
       catalog.cattle.io/namespace: cattle-monitoring-system
       catalog.cattle.io/release-name: rancher-monitoring-crd
     apiVersion: v1
-    created: "2024-06-27T20:03:27.931118803-03:00"
+    created: "2025-02-24T16:36:53.796134-08:00"
     description: Installs the CRDs for rancher-monitoring.
-    digest: f44aa3a03a1e940d20bb77ab90abfefc60582c9d7e160a1f7539461ac09eec5d
+    digest: 3a44663cb3a9523a4be08c7dd7ca8db347353ed3fc1c77783ce3a587d430a29b
     name: rancher-monitoring-crd
     type: application
     urls:
@@ -3895,9 +3895,9 @@ entries:
       catalog.cattle.io/namespace: cattle-monitoring-system
       catalog.cattle.io/release-name: rancher-monitoring-crd
     apiVersion: v1
-    created: "2024-06-27T20:03:25.888494982-03:00"
+    created: "2025-02-24T16:36:53.794598-08:00"
     description: Installs the CRDs for rancher-monitoring.
-    digest: c65ea5b2fbe0fad964b27f8a62e02bcabb5c0de9a51a569e54dd81466423fbc9
+    digest: 7f57517a4997d9237d998ad1acf0715ed2dbf473f822bf580a17dad4006b3ec5
     name: rancher-monitoring-crd
     type: application
     urls:
@@ -3909,9 +3909,9 @@ entries:
       catalog.cattle.io/namespace: cattle-monitoring-system
       catalog.cattle.io/release-name: rancher-monitoring-crd
     apiVersion: v1
-    created: "2024-06-27T20:03:23.849762624-03:00"
+    created: "2025-02-24T16:36:53.789988-08:00"
     description: Installs the CRDs for rancher-monitoring.
-    digest: f6dc8152bc46e89010ae41205be5c289fe8da887825e9e7b16a5e52050282065
+    digest: d734ba941bf93cc2321901313ea9eb81b02d58bbd6598951897c8a41f6843776
     name: rancher-monitoring-crd
     type: application
     urls:
@@ -3923,9 +3923,9 @@ entries:
       catalog.cattle.io/namespace: cattle-monitoring-system
       catalog.cattle.io/release-name: rancher-monitoring-crd
     apiVersion: v1
-    created: "2023-09-21T15:19:03.449855-07:00"
+    created: "2025-02-24T16:36:53.785165-08:00"
     description: Installs the CRDs for rancher-monitoring.
-    digest: 4e243104f0477ebd45cf3a9b4f18240d3938503eb8ffdd8942bd77cb97ebdfc5
+    digest: 95c9ea0dd08ae45ce9b3d4ecdbde96bda5b3d6e2129cf12b90bfe7bfb5dc42f2
     name: rancher-monitoring-crd
     type: application
     urls:
@@ -3937,9 +3937,9 @@ entries:
       catalog.cattle.io/namespace: cattle-monitoring-system
       catalog.cattle.io/release-name: rancher-monitoring-crd
     apiVersion: v1
-    created: "2023-05-03T16:04:02.019856-04:00"
+    created: "2025-02-24T16:36:53.780145-08:00"
     description: Installs the CRDs for rancher-monitoring.
-    digest: 4c4dcc1df2b4bc1762f8b5e498bc87a54cab73dd0c94481f9ed80b5f9239efe5
+    digest: bfb885befa1fcdfbecfe5796d615fd175243009e14046979a561d4a39a955941
     name: rancher-monitoring-crd
     type: application
     urls:
@@ -3951,9 +3951,9 @@ entries:
       catalog.cattle.io/namespace: cattle-monitoring-system
       catalog.cattle.io/release-name: rancher-monitoring-crd
     apiVersion: v1
-    created: "2023-03-14T10:51:20.680223-07:00"
+    created: "2025-02-24T16:36:53.774984-08:00"
     description: Installs the CRDs for rancher-monitoring.
-    digest: 5414b89526edc6729f1a50589c5f9e63947777c927f4f196cd860e72400d9e29
+    digest: fc2315c0f8da12aa158aae5d8ba77aea2bba0b91773027ff480051d7a4717553
     name: rancher-monitoring-crd
     type: application
     urls:
@@ -3965,15 +3965,15 @@ entries:
       catalog.cattle.io/namespace: cattle-monitoring-system
       catalog.cattle.io/release-name: rancher-monitoring-crd
     apiVersion: v1
-    created: "2022-09-20T12:23:06.860357-07:00"
+    created: "2025-02-24T16:36:53.770054-08:00"
     description: Installs the CRDs for rancher-monitoring.
-    digest: 0cd8c6d34526998179a28986b62ccc39323babfb756a40888e8134b244863633
+    digest: f32e5a72aca5a74133ad3d04b66ce0ee3111fbefe7c4389798943a327b310369
     name: rancher-monitoring-crd
     type: application
     urls:
     - assets/rancher-monitoring-crd/rancher-monitoring-crd-101.0.0+up19.0.3.tgz
     version: 101.0.0+up19.0.3
-
+  rancher-wins-upgrader:
   - annotations:
       catalog.cattle.io/certified: rancher
       catalog.cattle.io/kube-version: '>= 1.16.0-0 < 1.22.0-0'
@@ -4051,7 +4051,7 @@ entries:
       catalog.cattle.io/upstream-version: 1.3.0
     apiVersion: v2
     appVersion: v1.3.0
-    created: "2024-10-27T22:49:49.091075777-03:00"
+    created: "2025-02-24T16:36:34.766367-08:00"
     dependencies:
     - condition: rancher-nfd.enabled
       name: rancher-nfd
@@ -4060,7 +4060,7 @@ entries:
     deprecated: true
     description: SR-IOV network operator configures and manages SR-IOV networks in
       the kubernetes cluster
-    digest: 8ba2440560a15bc96c7eb2f85abcbb9af29f6e2c428ace939a98570a8ec1a87f
+    digest: 711cc6ab6c7ea35220b10557f2f3bb8a72dda3e5dc91fccfbb631ebc74649290
     home: https://github.com/k8snetworkplumbingwg/sriov-network-operator
     icon: https://charts.rancher.io/assets/logos/sr-iov.svg
     keywords:
@@ -4088,10 +4088,50 @@ entries:
       catalog.cattle.io/permits-os: linux
       catalog.cattle.io/rancher-version: '>= 2.9.0-0 < 2.10.0-0'
       catalog.cattle.io/release-name: sriov
+      catalog.cattle.io/upstream-version: 1.3.0
+    apiVersion: v2
+    appVersion: v1.3.0
+    created: "2025-02-24T16:36:53.846714-08:00"
+    dependencies:
+    - condition: rancher-nfd.enabled
+      name: rancher-nfd
+      repository: file://./charts/rancher-nfd
+      version: 0.15.6
+    deprecated: true
+    description: SR-IOV network operator configures and manages SR-IOV networks in
+      the kubernetes cluster
+    digest: cf9e44c843ff791b57e5db384022bbf48b15d6f3cb827d1c8925eb3aa5524f79
+    home: https://github.com/k8snetworkplumbingwg/sriov-network-operator
+    icon: https://charts.rancher.io/assets/logos/sr-iov.svg
+    keywords:
+    - sriov
+    - Networking
+    kubeVersion: '>= 1.16.0-0'
+    maintainers:
+    - email: charts@rancher.com
+      name: Rancher Labs
+    name: sriov
+    sources:
+    - https://github.com/rancher/charts
+    type: application
+    urls:
+    - assets/sriov/sriov-104.3.0-up1.3.0.tgz
+    version: 104.3.0-up1.3.0
+  - annotations:
+      catalog.cattle.io/auto-install: sriov-crd=match
+      catalog.cattle.io/certified: rancher
+      catalog.cattle.io/deprecated: "true"
+      catalog.cattle.io/experimental: "true"
+      catalog.cattle.io/kube-version: '>= 1.16.0-0 < 1.31.0-0'
+      catalog.cattle.io/namespace: cattle-sriov-system
+      catalog.cattle.io/os: linux
+      catalog.cattle.io/permits-os: linux
+      catalog.cattle.io/rancher-version: '>= 2.9.0-0 < 2.10.0-0'
+      catalog.cattle.io/release-name: sriov
       catalog.cattle.io/upstream-version: 1.2.0
     apiVersion: v2
     appVersion: 1.2.0
-    created: "2024-07-26T13:53:04.481864265-03:00"
+    created: "2025-02-24T16:36:53.845614-08:00"
     dependencies:
     - condition: rancher-nfd.enabled
       name: rancher-nfd
@@ -4100,7 +4140,7 @@ entries:
     deprecated: true
     description: SR-IOV network operator configures and manages SR-IOV networks in
       the kubernetes cluster
-    digest: 829b972b46611d6c343781dd8d2a964be617afc0a7d396ed62344bb2489d0849
+    digest: 2770f583d3b476a3e50ede7e6fb4a0ba8b36c1d7bfc36a604fc1032ea7b8953c
     home: https://github.com/k8snetworkplumbingwg/sriov-network-operator
     icon: https://charts.rancher.io/assets/logos/sr-iov.svg
     keywords:
@@ -4131,7 +4171,7 @@ entries:
       catalog.cattle.io/upstream-version: 1.2.0
     apiVersion: v2
     appVersion: 1.2.0
-    created: "2024-07-17T20:37:56.489788732-03:00"
+    created: "2025-02-24T16:36:53.844569-08:00"
     dependencies:
     - condition: rancher-nfd.enabled
       name: rancher-nfd
@@ -4140,7 +4180,7 @@ entries:
     deprecated: true
     description: SR-IOV network operator configures and manages SR-IOV networks in
       the kubernetes cluster
-    digest: 72e0382dff3231bd1fcbcb93a0f5e8238df0c083767a99ff1b2192a518f099af
+    digest: 7ca673fc354cd5582bb7f250cb22a10eaab27268eeaff6f354e99d5d3fc75732
     home: https://github.com/k8snetworkplumbingwg/sriov-network-operator
     icon: https://charts.rancher.io/assets/logos/sr-iov.svg
     keywords:
@@ -4170,7 +4210,7 @@ entries:
       catalog.cattle.io/upstream-version: 1.2.0
     apiVersion: v2
     appVersion: 1.2.0
-    created: "2024-07-17T20:36:22.887567645-03:00"
+    created: "2025-02-24T16:36:53.843109-08:00"
     dependencies:
     - condition: rancher-nfd.enabled
       name: rancher-nfd
@@ -4178,7 +4218,7 @@ entries:
       version: 0.15.4
     description: SR-IOV network operator configures and manages SR-IOV networks in
       the kubernetes cluster
-    digest: 76f89e3171e5e8ec206c4f19f0c143e36d8e287c33139b31bcde7f6a073b4edf
+    digest: edbd8916dde6ba0244000b6cfe0694e4c25f2afeebee280671f195cb0c222f1a
     home: https://github.com/k8snetworkplumbingwg/sriov-network-operator
     icon: https://charts.rancher.io/assets/logos/sr-iov.svg
     keywords:
@@ -4208,10 +4248,10 @@ entries:
       catalog.cattle.io/upstream-version: 1.2.0
     apiVersion: v2
     appVersion: 1.2.0
-    created: "2024-06-27T20:04:34.806622333-03:00"
+    created: "2025-02-24T16:36:53.841999-08:00"
     description: SR-IOV network operator configures and manages SR-IOV networks in
       the kubernetes cluster
-    digest: fb069897a7e6bc132d28783c74bec35b23aac681cf2806f3c69f67bfeb1e7285
+    digest: 70cb317c8b348123744a33ceb5f566f932d89de767da9421ff44c18129b8c674
     home: https://github.com/k8snetworkplumbingwg/sriov-network-operator
     icon: https://charts.rancher.io/assets/logos/sr-iov.svg
     keywords:
@@ -4241,10 +4281,10 @@ entries:
       catalog.cattle.io/upstream-version: 1.2.0
     apiVersion: v2
     appVersion: 1.2.0
-    created: "2023-09-26T17:49:37.736425794-06:00"
+    created: "2025-02-24T16:36:53.841027-08:00"
     description: SR-IOV network operator configures and manages SR-IOV networks in
       the kubernetes cluster
-    digest: 1a92ec793b0af6b747de0fba82221c5dad5d91dbf4c0571e396d32c12802c989
+    digest: 2ab941e32c9bd87752fa11965d899ec4380a38451772842db2f243e5bbb29772
     home: https://github.com/k8snetworkplumbingwg/sriov-network-operator
     icon: https://charts.rancher.io/assets/logos/sr-iov.svg
     keywords:
@@ -4274,10 +4314,10 @@ entries:
       catalog.cattle.io/upstream-version: 1.2.0
     apiVersion: v2
     appVersion: 1.2.0
-    created: "2024-06-27T20:04:33.089368586-03:00"
+    created: "2025-02-24T16:36:53.840003-08:00"
     description: SR-IOV network operator configures and manages SR-IOV networks in
       the kubernetes cluster
-    digest: 8ed88b0f25500f5db87eba4e36f1d0eb993b424179cc29bbc262a2b31b497789
+    digest: 32f3b95fc0d73b5abf58d9cf79c6f34a8af5a33b08c493c539b20a3a16cb4e24
     home: https://github.com/k8snetworkplumbingwg/sriov-network-operator
     icon: https://charts.rancher.io/assets/logos/sr-iov.svg
     keywords:
@@ -4307,10 +4347,10 @@ entries:
       catalog.cattle.io/upstream-version: 1.2.0
     apiVersion: v2
     appVersion: 1.2.0
-    created: "2023-06-12T07:34:52.805394653Z"
+    created: "2025-02-24T16:36:53.839059-08:00"
     description: SR-IOV network operator configures and manages SR-IOV networks in
       the kubernetes cluster
-    digest: 71df6a94f6b5cbf9213073395464f2df11a05ed352ddeb4bed79e69d2c11e70d
+    digest: a2c27dfe86321ea35e7d53515dd3e070f438747930b33b67c7cf7dbc8e04034e
     home: https://github.com/k8snetworkplumbingwg/sriov-network-operator
     icon: https://charts.rancher.io/assets/logos/sr-iov.svg
     keywords:
@@ -4340,10 +4380,10 @@ entries:
       catalog.cattle.io/upstream-version: 1.2.0
     apiVersion: v2
     appVersion: 1.2.0
-    created: "2023-02-15T09:02:00.910172801Z"
+    created: "2025-02-24T16:36:53.837764-08:00"
     description: SR-IOV network operator configures and manages SR-IOV networks in
       the kubernetes cluster
-    digest: cb1dd338b3a271427012a71c51aa8dd2fa79af60bccb3ebccf65fb60c49995a0
+    digest: 8dbf0bcb6714976ab4a94187591cad8df6ad6cd4fc296af606a7f5c390b00d59
     home: https://github.com/k8snetworkplumbingwg/sriov-network-operator
     icon: https://charts.rancher.io/assets/logos/sr-iov.svg
     keywords:
@@ -4373,10 +4413,10 @@ entries:
       catalog.cattle.io/upstream-version: 1.2.0
     apiVersion: v2
     appVersion: 1.2.0
-    created: "2022-09-22T14:48:41.812970799Z"
+    created: "2025-02-24T16:36:53.836896-08:00"
     description: SR-IOV network operator configures and manages SR-IOV networks in
       the kubernetes cluster
-    digest: 146df00c5b76743cf6fe7044ea0c3a3932c48f8e3fd59dffd2e73ccf3b450588
+    digest: f0b2dbe9996fe1c3ee6936157241cae0c2e477fa423f7276f66b9e93a10526aa
     home: https://github.com/k8snetworkplumbingwg/sriov-network-operator
     icon: https://charts.rancher.io/assets/logos/sr-iov.svg
     keywords:
@@ -4403,10 +4443,10 @@ entries:
       catalog.cattle.io/permits-os: linux
       catalog.cattle.io/release-name: sriov-crd
     apiVersion: v2
-    created: "2024-10-27T22:49:46.206244023-03:00"
+    created: "2025-02-24T16:36:53.848575-08:00"
     deprecated: true
     description: Installs the CRDs for the SR-IOV operator
-    digest: e16619ec3fee2642cca6b3ce9dd246dc444d4f2d937a9efc4767acf782e7b9e4
+    digest: 29daa67a4fb1abe6cd6a34085950e8d6dabdaf3ea7e2f73ab34ada91a5c80be0
     name: sriov-crd
     type: application
     urls:
@@ -4421,10 +4461,10 @@ entries:
       catalog.cattle.io/permits-os: linux
       catalog.cattle.io/release-name: sriov-crd
     apiVersion: v2
-    created: "2024-07-26T13:53:34.530589098-03:00"
+    created: "2025-02-24T16:36:53.848264-08:00"
     deprecated: true
     description: Installs the CRDs for the SR-IOV operator
-    digest: ac64c6ce2acca5f18a9db2e20bc877465e90cae16562b32781e535bb2fa06965
+    digest: 077a9e203f44557780f0837e349be125db3aa1d372ba592827be93f5add1ca7f
     name: sriov-crd
     type: application
     urls:
@@ -4439,10 +4479,10 @@ entries:
       catalog.cattle.io/permits-os: linux
       catalog.cattle.io/release-name: sriov-crd
     apiVersion: v2
-    created: "2024-07-17T20:37:31.180924172-03:00"
+    created: "2025-02-24T16:36:53.84799-08:00"
     deprecated: true
     description: Installs the CRDs for the SR-IOV operator
-    digest: e3838f11c4e719fe6d4549e839c8a8ce08d1c86bfd252501f3465dc86526e406
+    digest: 12c7856b4808d3d06ce146ddcaa69fc8147c427055add3f2b20013026b2028d7
     name: sriov-crd
     type: application
     urls:
@@ -4456,9 +4496,9 @@ entries:
       catalog.cattle.io/permits-os: linux
       catalog.cattle.io/release-name: sriov-crd
     apiVersion: v2
-    created: "2024-07-17T20:37:03.541871348-03:00"
+    created: "2025-02-24T16:36:53.847828-08:00"
     description: Installs the CRDs for the SR-IOV operator
-    digest: 47eb02e596317800f111f6554c55eda185428d18520d6b0be5efe7547751c588
+    digest: 1c746229d1b2af84e7bfc44f0f46cbd09be7096974148e97fa9f7707a5e53d5b
     name: sriov-crd
     type: application
     urls:
@@ -4472,9 +4512,9 @@ entries:
       catalog.cattle.io/permits-os: linux
       catalog.cattle.io/release-name: sriov-crd
     apiVersion: v2
-    created: "2024-06-27T20:04:38.286142489-03:00"
+    created: "2025-02-24T16:36:53.847631-08:00"
     description: Installs the CRDs for rke2-sriov.
-    digest: 23611c47f7ee9c83ab52c11238ea2eea1742d2cce1097d0686390cd9f52066c5
+    digest: 7be423fd4db8d2f0779cbe31f1eaf0c204ec8212ffb0e9f32ea48df097635723
     name: sriov-crd
     type: application
     urls:
@@ -4488,9 +4528,9 @@ entries:
       catalog.cattle.io/permits-os: linux
       catalog.cattle.io/release-name: sriov-crd
     apiVersion: v2
-    created: "2023-09-26T17:13:13.63307864-06:00"
+    created: "2025-02-24T16:36:53.847493-08:00"
     description: Installs the CRDs for rke2-sriov.
-    digest: 98b506e305ff4fc48aa0015c1876fd86aa6cca3f6b1e0b416f18f3d0bd865138
+    digest: bfd298d1d2c430f7134c26a407de075396a64ac6efa07842ef726859538fa724
     name: sriov-crd
     type: application
     urls:
@@ -4504,9 +4544,9 @@ entries:
       catalog.cattle.io/permits-os: linux
       catalog.cattle.io/release-name: sriov-crd
     apiVersion: v2
-    created: "2024-06-27T20:04:36.547125764-03:00"
+    created: "2025-02-24T16:36:53.847337-08:00"
     description: Installs the CRDs for rke2-sriov.
-    digest: 454b9d57ad3065e4ebfd41534e375559264219b00a9e65e40aacebb4dd301730
+    digest: cd27c27c59527bc82d582aa76bb6c1c90b389fa732a454bd3e0adc8ec933e273
     name: sriov-crd
     type: application
     urls:
@@ -4520,9 +4560,9 @@ entries:
       catalog.cattle.io/permits-os: linux
       catalog.cattle.io/release-name: sriov-crd
     apiVersion: v2
-    created: "2023-04-24T13:20:58.786392518Z"
+    created: "2025-02-24T16:36:53.847183-08:00"
     description: Installs the CRDs for rke2-sriov.
-    digest: c9cd03423f131972d98b736005ffb1d478949fd8297e57c94b5cef6f201f98c1
+    digest: d66a36c4d4989da0f062d42ecae6eae409a16ffe3645b2a01ad0af165d3445f2
     name: sriov-crd
     type: application
     urls:
@@ -4536,9 +4576,9 @@ entries:
       catalog.cattle.io/permits-os: linux
       catalog.cattle.io/release-name: sriov-crd
     apiVersion: v2
-    created: "2023-02-15T09:02:00.929677725Z"
+    created: "2025-02-24T16:36:53.847032-08:00"
     description: Installs the CRDs for rke2-sriov.
-    digest: 0209ab03d8438bd28c0da82d1037b1067c05dc6bc7200cdb2ff42b5301c612b8
+    digest: cbe3ac8f4cb644bda906ac70e13a32369fe2bf9a47553866cb18f6208e2798c5
     name: sriov-crd
     type: application
     urls:
@@ -4552,11 +4592,12 @@ entries:
       catalog.cattle.io/permits-os: linux
       catalog.cattle.io/release-name: sriov-crd
     apiVersion: v2
-    created: "2022-09-22T14:48:41.814679315Z"
+    created: "2025-02-24T16:36:53.846874-08:00"
     description: Installs the CRDs for rke2-sriov.
-    digest: 4e8d12a2e4097c0ccda0d108b14ba7577d09c42fecb4622993e7573f423099a6
+    digest: 128e9b7bec320a7aa3fb57aeba9b793770f3e8cb045f295aece45795e5930f90
     name: sriov-crd
     type: application
     urls:
     - assets/sriov-crd/sriov-crd-101.0.1+up0.1.0.tgz
     version: 101.0.1+up0.1.0
+generated: "2025-02-24T16:36:53.301809-08:00"
