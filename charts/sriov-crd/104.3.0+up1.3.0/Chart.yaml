@@ -11,4 +11,4 @@ deprecated: true
 description: Installs the CRDs for the SR-IOV operator
 name: sriov-crd
 type: application
-version: 104.3.0+up1.3.0
+version: 104.3.0-up1.3.0
