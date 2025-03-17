@@ -17,7 +17,41 @@ entries:
       catalog.cattle.io/upstream-version: 4.10.0
     apiVersion: v2
     appVersion: 4.10.0
-    created: "2025-02-27T23:23:03.867143-08:00"
+    created: "2025-03-16T21:52:06.722674-07:00"
+    description: Logging operator for Kubernetes based on Fluentd and Fluentbit.
+    digest: d621098569ec74d1064824af67ce145fb05857ead001f6777a92ac7be66c1160
+    home: https://kube-logging.github.io
+    icon: file://assets/logos/rancher-logging.svg
+    keywords:
+    - logging
+    - fluentd
+    - fluentbit
+    kubeVersion: '>=1.28.0-0'
+    name: rancher-logging
+    sources:
+    - https://github.com/kube-logging/logging-operator
+    - https://github.com/kube-logging/helm-charts/tree/main/charts/logging-operator
+    type: application
+    urls:
+    - assets/rancher-logging/rancher-logging-105.2.1-up4.10.0.tgz
+    version: 105.2.1-up4.10.0
+  - annotations:
+      catalog.cattle.io/auto-install: rancher-logging-crd=match
+      catalog.cattle.io/certified: rancher
+      catalog.cattle.io/deploys-on-os: windows
+      catalog.cattle.io/display-name: Logging
+      catalog.cattle.io/kube-version: '>= 1.28.0-0 < 1.32.0-0'
+      catalog.cattle.io/namespace: cattle-logging-system
+      catalog.cattle.io/permits-os: linux,windows
+      catalog.cattle.io/provides-gvr: logging.banzaicloud.io.clusterflow/v1beta1
+      catalog.cattle.io/rancher-version: '>= 2.10.0-0 < 2.11.0-0'
+      catalog.cattle.io/release-name: rancher-logging
+      catalog.cattle.io/type: cluster-tool
+      catalog.cattle.io/ui-component: logging
+      catalog.cattle.io/upstream-version: 4.10.0
+    apiVersion: v2
+    appVersion: 4.10.0
+    created: "2025-03-16T21:52:06.721338-07:00"
     description: Logging operator for Kubernetes based on Fluentd and Fluentbit.
     digest: 479fbc042698092f7575caa4646e2b78dc7af2cae3fca7ef80186a77fc2b8895
     home: https://kube-logging.github.io
@@ -51,7 +85,7 @@ entries:
       catalog.cattle.io/upstream-version: 4.10.0
     apiVersion: v2
     appVersion: 4.10.0
-    created: "2025-02-27T23:23:03.866118-08:00"
+    created: "2025-03-16T21:52:06.720476-07:00"
     description: Logging operator for Kubernetes based on Fluentd and Fluentbit.
     digest: 909fef222565559ace869cf31eb2c774e0e97b40554d1ac415abc9cf020010a9
     home: https://kube-logging.github.io
@@ -85,7 +119,7 @@ entries:
       catalog.cattle.io/upstream-version: 4.8.0
     apiVersion: v2
     appVersion: 4.8.0
-    created: "2025-02-27T23:23:03.865075-08:00"
+    created: "2025-03-16T21:52:06.719594-07:00"
     description: Logging operator for Kubernetes based on Fluentd and Fluentbit.
     digest: 551a3bd44739993ebfc6c393cc9f70df265b08167386c5abc2e3ed9a9af34cc5
     home: https://kube-logging.github.io
@@ -119,7 +153,7 @@ entries:
       catalog.cattle.io/upstream-version: 4.8.0
     apiVersion: v2
     appVersion: 4.8.0
-    created: "2025-02-27T23:23:03.86406-08:00"
+    created: "2025-03-16T21:52:06.718723-07:00"
     description: Logging operator for Kubernetes based on Fluentd and Fluentbit.
     digest: 9951a61b1bba97a69e7664a7601133ca6d54db9f756017695c822b7994b65030
     home: https://kube-logging.github.io
@@ -153,7 +187,7 @@ entries:
       catalog.cattle.io/upstream-version: 4.8.0
     apiVersion: v2
     appVersion: 4.8.0
-    created: "2025-02-27T23:23:03.862637-08:00"
+    created: "2025-03-16T21:52:06.717818-07:00"
     description: Logging operator for Kubernetes based on Fluentd and Fluentbit.
     digest: f02851bb92ab40190269d0d26651e3e88f2eb759531a0e12139d3a91bcd09102
     home: https://kube-logging.github.io
@@ -187,7 +221,7 @@ entries:
       catalog.cattle.io/upstream-version: 4.8.0
     apiVersion: v2
     appVersion: 4.8.0
-    created: "2025-02-27T23:23:03.861755-08:00"
+    created: "2025-03-16T21:52:06.716859-07:00"
     description: Logging operator for Kubernetes based on Fluentd and Fluentbit.
     digest: 8ab63c3c15ef906ebb876bb7490f0f40ed5bddf0132937fecf7e5422923c5d05
     home: https://kube-logging.github.io
@@ -221,7 +255,7 @@ entries:
       catalog.cattle.io/upstream-version: 4.4.0
     apiVersion: v2
     appVersion: 4.4.0
-    created: "2025-02-27T23:23:03.860859-08:00"
+    created: "2025-03-16T21:52:06.715548-07:00"
     description: Logging operator for Kubernetes based on Fluentd and Fluentbit.
     digest: 718d7a63bc13bca86e37df0a3a544c101b1bfafc19dd60d7cdb7bffb9ca3f62c
     home: https://kube-logging.github.io
@@ -246,7 +280,21 @@ entries:
       catalog.cattle.io/namespace: cattle-logging-system
       catalog.cattle.io/release-name: rancher-logging-crd
     apiVersion: v1
-    created: "2025-02-27T23:23:03.896559-08:00"
+    created: "2025-03-16T21:52:06.754715-07:00"
+    description: Installs the CRDs for rancher-logging.
+    digest: acf409f8c93f22425b8cc979755e0c9527c5caf47d67c9b0556522cb42091503
+    name: rancher-logging-crd
+    type: application
+    urls:
+    - assets/rancher-logging-crd/rancher-logging-crd-105.2.1-up4.10.0.tgz
+    version: 105.2.1-up4.10.0
+  - annotations:
+      catalog.cattle.io/certified: rancher
+      catalog.cattle.io/hidden: "true"
+      catalog.cattle.io/namespace: cattle-logging-system
+      catalog.cattle.io/release-name: rancher-logging-crd
+    apiVersion: v1
+    created: "2025-03-16T21:52:06.750675-07:00"
     description: Installs the CRDs for rancher-logging.
     digest: 85995953943b9eb21c8cd6f148801d59ba176a12e3b3b08e474bb854c770d77b
     name: rancher-logging-crd
@@ -260,7 +308,7 @@ entries:
       catalog.cattle.io/namespace: cattle-logging-system
       catalog.cattle.io/release-name: rancher-logging-crd
     apiVersion: v1
-    created: "2025-02-27T23:23:03.892451-08:00"
+    created: "2025-03-16T21:52:06.746593-07:00"
     description: Installs the CRDs for rancher-logging.
     digest: 84c93171da9b91fa262847e032f78f66ee57d632a260de1c9d06711d45154e7a
     name: rancher-logging-crd
@@ -274,7 +322,7 @@ entries:
       catalog.cattle.io/namespace: cattle-logging-system
       catalog.cattle.io/release-name: rancher-logging-crd
     apiVersion: v1
-    created: "2025-02-27T23:23:03.888352-08:00"
+    created: "2025-03-16T21:52:06.742433-07:00"
     description: Installs the CRDs for rancher-logging.
     digest: c6ee49a7ffe8049c52ab5e50473883e61688f584ab7b9b594089008b5116a512
     name: rancher-logging-crd
@@ -288,7 +336,7 @@ entries:
       catalog.cattle.io/namespace: cattle-logging-system
       catalog.cattle.io/release-name: rancher-logging-crd
     apiVersion: v1
-    created: "2025-02-27T23:23:03.884377-08:00"
+    created: "2025-03-16T21:52:06.73837-07:00"
     description: Installs the CRDs for rancher-logging.
     digest: 01a0de596a9f899d19448bea29083dc55cee5d818fb98543bc976f1463d0a016
     name: rancher-logging-crd
@@ -302,7 +350,7 @@ entries:
       catalog.cattle.io/namespace: cattle-logging-system
       catalog.cattle.io/release-name: rancher-logging-crd
     apiVersion: v1
-    created: "2025-02-27T23:23:03.879846-08:00"
+    created: "2025-03-16T21:52:06.73435-07:00"
     description: Installs the CRDs for rancher-logging.
     digest: 6173b9c038a7e842c1a9e0ec1b773ed7d2312b93dcda257f38426212fe803b8c
     name: rancher-logging-crd
@@ -316,7 +364,7 @@ entries:
       catalog.cattle.io/namespace: cattle-logging-system
       catalog.cattle.io/release-name: rancher-logging-crd
     apiVersion: v1
-    created: "2025-02-27T23:23:03.875608-08:00"
+    created: "2025-03-16T21:52:06.73028-07:00"
     description: Installs the CRDs for rancher-logging.
     digest: 08e4b25aecab6b90f24442615aafcf0404cebeca5131524b5b7087fb2ee7b24e
     name: rancher-logging-crd
@@ -330,7 +378,7 @@ entries:
       catalog.cattle.io/namespace: cattle-logging-system
       catalog.cattle.io/release-name: rancher-logging-crd
     apiVersion: v1
-    created: "2025-02-27T23:23:03.870991-08:00"
+    created: "2025-03-16T21:52:06.725854-07:00"
     description: Installs the CRDs for rancher-logging.
     digest: 7c40fbb3726f69e1c00b13531b224bf13b83a060d76f906d293ebcc288562fbd
     name: rancher-logging-crd
@@ -364,7 +412,7 @@ entries:
       catalog.cattle.io/upstream-version: 57.0.3
     apiVersion: v2
     appVersion: v0.75.1
-    created: "2025-02-27T23:23:04.088205-08:00"
+    created: "2025-03-16T21:52:06.922173-07:00"
     dependencies:
     - condition: grafana.enabled
       name: grafana
@@ -494,7 +542,7 @@ entries:
       catalog.cattle.io/upstream-version: 57.0.3
     apiVersion: v2
     appVersion: v0.75.1
-    created: "2025-02-27T23:23:04.050581-08:00"
+    created: "2025-03-16T21:52:06.902906-07:00"
     dependencies:
     - condition: grafana.enabled
       name: grafana
@@ -624,7 +672,7 @@ entries:
       catalog.cattle.io/upstream-version: 57.0.3
     apiVersion: v2
     appVersion: v0.75.1
-    created: "2025-02-27T23:23:04.031126-08:00"
+    created: "2025-03-16T21:52:06.884481-07:00"
     dependencies:
     - condition: grafana.enabled
       name: grafana
@@ -754,7 +802,7 @@ entries:
       catalog.cattle.io/upstream-version: 57.0.3
     apiVersion: v2
     appVersion: v0.72.0
-    created: "2025-02-27T23:23:04.010228-08:00"
+    created: "2025-03-16T21:52:06.865859-07:00"
     dependencies:
     - condition: grafana.enabled
       name: grafana
@@ -884,7 +932,7 @@ entries:
       catalog.cattle.io/upstream-version: 57.0.3
     apiVersion: v2
     appVersion: v0.72.0
-    created: "2025-02-27T23:23:03.990458-08:00"
+    created: "2025-03-16T21:52:06.847054-07:00"
     dependencies:
     - condition: grafana.enabled
       name: grafana
@@ -1014,7 +1062,7 @@ entries:
       catalog.cattle.io/upstream-version: 57.0.3
     apiVersion: v2
     appVersion: v0.72.0
-    created: "2025-02-27T23:23:03.971334-08:00"
+    created: "2025-03-16T21:52:06.828087-07:00"
     dependencies:
     - condition: grafana.enabled
       name: grafana
@@ -1144,7 +1192,7 @@ entries:
       catalog.cattle.io/upstream-version: 57.0.3
     apiVersion: v2
     appVersion: v0.72.0
-    created: "2025-02-27T23:23:03.951401-08:00"
+    created: "2025-03-16T21:52:06.809481-07:00"
     dependencies:
     - condition: grafana.enabled
       name: grafana
@@ -1274,7 +1322,7 @@ entries:
       catalog.cattle.io/upstream-version: 57.0.3
     apiVersion: v2
     appVersion: v0.72.0
-    created: "2025-02-27T23:23:03.933452-08:00"
+    created: "2025-03-16T21:52:06.790941-07:00"
     dependencies:
     - condition: grafana.enabled
       name: grafana
@@ -1404,7 +1452,7 @@ entries:
       catalog.cattle.io/upstream-version: 45.31.1
     apiVersion: v2
     appVersion: v0.65.1
-    created: "2025-02-27T23:23:03.914008-08:00"
+    created: "2025-03-16T21:52:06.771846-07:00"
     dependencies:
     - condition: grafana.enabled
       name: grafana
@@ -1536,7 +1584,7 @@ entries:
       catalog.cattle.io/namespace: cattle-monitoring-system
       catalog.cattle.io/release-name: rancher-monitoring-crd
     apiVersion: v2
-    created: "2025-02-27T23:23:04.105421-08:00"
+    created: "2025-03-16T21:52:06.939072-07:00"
     description: Installs the CRDs for rancher-monitoring.
     digest: 396d2376a18564b42ce88379218d5571f4475a8bf0406362322baba2a4f0e289
     name: rancher-monitoring-crd
@@ -1550,7 +1598,7 @@ entries:
       catalog.cattle.io/namespace: cattle-monitoring-system
       catalog.cattle.io/release-name: rancher-monitoring-crd
     apiVersion: v2
-    created: "2025-02-27T23:23:04.103087-08:00"
+    created: "2025-03-16T21:52:06.937098-07:00"
     description: Installs the CRDs for rancher-monitoring.
     digest: 0a49623766c7ac7a4fd134643b7659eca7cc9767d65299a000487c6673085140
     name: rancher-monitoring-crd
@@ -1564,7 +1612,7 @@ entries:
       catalog.cattle.io/namespace: cattle-monitoring-system
       catalog.cattle.io/release-name: rancher-monitoring-crd
     apiVersion: v2
-    created: "2025-02-27T23:23:04.101076-08:00"
+    created: "2025-03-16T21:52:06.935067-07:00"
     description: Installs the CRDs for rancher-monitoring.
     digest: a3380aa094fa7e325579d3e4d6094a21c14379034288a9f18d43582544920b86
     name: rancher-monitoring-crd
@@ -1578,7 +1626,7 @@ entries:
       catalog.cattle.io/namespace: cattle-monitoring-system
       catalog.cattle.io/release-name: rancher-monitoring-crd
     apiVersion: v2
-    created: "2025-02-27T23:23:04.099162-08:00"
+    created: "2025-03-16T21:52:06.933265-07:00"
     description: Installs the CRDs for rancher-monitoring.
     digest: 15ab52e7cef2b82f6f815bbce596b54e82ad4fae14b0f312188c97291052aa92
     name: rancher-monitoring-crd
@@ -1592,7 +1640,7 @@ entries:
       catalog.cattle.io/namespace: cattle-monitoring-system
       catalog.cattle.io/release-name: rancher-monitoring-crd
     apiVersion: v2
-    created: "2025-02-27T23:23:04.097316-08:00"
+    created: "2025-03-16T21:52:06.931317-07:00"
     description: Installs the CRDs for rancher-monitoring.
     digest: 6eec0ed23cb40cecec7abcfcfe16a7716bdc1aeca4d50951c2c53b688d986761
     name: rancher-monitoring-crd
@@ -1606,7 +1654,7 @@ entries:
       catalog.cattle.io/namespace: cattle-monitoring-system
       catalog.cattle.io/release-name: rancher-monitoring-crd
     apiVersion: v2
-    created: "2025-02-27T23:23:04.095198-08:00"
+    created: "2025-03-16T21:52:06.929364-07:00"
     description: Installs the CRDs for rancher-monitoring.
     digest: 5c0c0b4d29348427ae86222720cda6e2e08bb8ef2a547d50978b481fd4bed18f
     name: rancher-monitoring-crd
@@ -1620,7 +1668,7 @@ entries:
       catalog.cattle.io/namespace: cattle-monitoring-system
       catalog.cattle.io/release-name: rancher-monitoring-crd
     apiVersion: v2
-    created: "2025-02-27T23:23:04.093297-08:00"
+    created: "2025-03-16T21:52:06.927469-07:00"
     description: Installs the CRDs for rancher-monitoring.
     digest: 465ab8df4574850183e7433562aeff34b574392e7331cabf5a5d7b73b3247b0c
     name: rancher-monitoring-crd
@@ -1634,7 +1682,7 @@ entries:
       catalog.cattle.io/namespace: cattle-monitoring-system
       catalog.cattle.io/release-name: rancher-monitoring-crd
     apiVersion: v2
-    created: "2025-02-27T23:23:04.091398-08:00"
+    created: "2025-03-16T21:52:06.925323-07:00"
     description: Installs the CRDs for rancher-monitoring.
     digest: 8086835f384c61ba37d8a78443d5102d327f8d2d6b6b20f6bffc4708c6defcd4
     name: rancher-monitoring-crd
@@ -1648,7 +1696,7 @@ entries:
       catalog.cattle.io/namespace: cattle-monitoring-system
       catalog.cattle.io/release-name: rancher-monitoring-crd
     apiVersion: v2
-    created: "2025-02-27T23:23:04.08952-08:00"
+    created: "2025-03-16T21:52:06.923416-07:00"
     description: Installs the CRDs for rancher-monitoring.
     digest: 48973d33fb8c1e4aeb5de2f2c85e7f572873aa6ac6478c9435ffde41a72263d9
     name: rancher-monitoring-crd
@@ -1656,4 +1704,4 @@ entries:
     urls:
     - assets/rancher-monitoring-crd/rancher-monitoring-crd-104.0.0-up45.31.1.tgz
     version: 104.0.0-up45.31.1
-generated: "2025-02-27T23:23:03.859871-08:00"
+generated: "2025-03-16T21:52:06.714565-07:00"
